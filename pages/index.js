@@ -19,8 +19,7 @@ export default function Home({ githubProfileData }) {
       <SEO
         data={{
           title: "Joseph Tioluwani",
-          description:
-            "A passionate Full Stack Web Developer and Mobile App Developer.",
+          description: "A passionate Front-end Web Developer.",
           image: "https://avatars.githubusercontent.com/u/53085787?v=4",
           url: "https://my-portfolio-orpin-beta.vercel.app/",
           keywords: [
