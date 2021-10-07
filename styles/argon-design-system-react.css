@@ -2531,8 +2531,8 @@ fieldset:disabled a.btn {
 
 .btn-success {
 	color: #fff;
-	background-color: #2dce89;
-	border-color: #2dce89;
+	background-color: #52a175;
+	border-color: #52a175;
 	box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 .btn-success:hover {
@@ -5155,7 +5155,7 @@ a.badge-success.focus {
 
 .badge-info {
 	color: #fff;
-	background-color: #11cdef;
+	background-color: #c73535;
 }
 a.badge-info:hover,
 a.badge-info:focus {
@@ -6728,7 +6728,7 @@ button.bg-success:focus {
 }
 
 .bg-info {
-	background-color: #11cdef !important;
+	background-color: #b67272 !important;
 }
 
 a.bg-info:hover,
@@ -8462,6 +8462,8 @@ button.bg-darker:focus {
 .py-0 {
 	padding-bottom: 0 !important;
 }
+
+
 
 .pl-0,
 .px-0 {
@@ -13851,7 +13853,7 @@ a.text-success:focus {
 }
 
 .text-info {
-	color: #11cdef !important;
+	color: #c73535 !important;
 }
 
 a.text-info:hover,
@@ -14410,7 +14412,7 @@ button.bg-lighter:focus {
 }
 
 .bg-gradient-info {
-	background: linear-gradient(35deg, #11cdef 0, #1171ef 100%) !important;
+	background: linear-gradient(35deg, #000 0, #000 100%) !important;
 }
 
 .bg-gradient-warning {
@@ -14705,7 +14707,7 @@ button.section-darker:focus {
 }
 
 .bg-gradient-info {
-	background: linear-gradient(35deg, #11cdef 0, #1171ef 100%) !important;
+	background: linear-gradient(35deg, #000 0, #000 100%) !important;
 }
 
 .bg-gradient-warning {
