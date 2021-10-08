@@ -128,7 +128,7 @@ export const experience = [
     date: "Dec 2019 – Oct 2020",
     descBullets: [
       "Developed front end web pages for a mergers and acquisition portal for the Federal Competition and Consumer Protection Commission with react js, html/css. Link: https://mergers.fccpc.gov.ng/",
-      "Development of front-end web pages for an in house web app (Workwise) with React , HTML/CSS, redux and consumed APIs for the software which is aimed at creatinga pleasant workplace experience used by various companies"
+      "Development of front-end web pages for an in house web app (Workwise) with React , HTML/CSS, redux and consumed APIs for the software which is aimed at creating a pleasant workplace experience used by various companies"
     ]
   },
   {
@@ -148,7 +148,7 @@ export const projects = [
   {
     name: "Visitor Management",
     desc:
-      "This admin dashboard project enables admin to monitor visitors, employees, and items/ company devices coming in and out of a building",
+      "This admin dashboard project enables admin to monitor visitors, employees, and items/ company devices coming in and out of a building.(Currently dosent have a backend) ",
     link: "https://visitor-management.vercel.app/",
     github: "https://github.com/darkhota/visitor-management"
   },
