@@ -21,7 +21,8 @@ export const socialLinks = {
   instagram: "https://www.instagram.com/Darkhota",
   twitter: "https://twitter.com/Darkhota",
   github: "https://github.com/Darkhota",
-  linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/"
+  linkedin:
+    "https://www.linkedin.com/in/joseph-tioluwani-358932177?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuhlpRyECTLm5UZQ1CJGJNg%3D%3D"
 };
 
 export const skillsSection = {
