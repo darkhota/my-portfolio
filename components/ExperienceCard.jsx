@@ -33,6 +33,7 @@ const ExperienceCard = ({ data }) => {
           <CardBody className="py-5">
             <div className="mb-4">
               <Image
+                className="company-logo"
                 src={data.companylogo}
                 width={"150px"}
                 height={"50px"}

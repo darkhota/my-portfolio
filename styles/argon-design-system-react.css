@@ -8103,6 +8103,10 @@ button.bg-darker:focus {
 	margin-bottom: 1.5rem !important;
 }
 
+.company-logo{
+	object-fit: contain;
+}
+
 .ml-4,
 .mx-4 {
 	margin-left: 1.5rem !important;
