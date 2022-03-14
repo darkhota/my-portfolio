@@ -83,6 +83,10 @@ export const skillsSection = {
     {
       skillName: "git",
       fontAwesomeClassname: "logos:git-icon"
+    },
+    {
+      skillName: "nextjs",
+      fontAwesomeClassname: "logos:nextjs-icon"
     }
   ]
 };
@@ -147,6 +151,40 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Twitter Composer",
+    desc:
+      "This is a project that enables you to schedule tweets/messages, built with react, context api and material UI. It also sorts created tweets by date and time, and I created a function that helps sort tweets created on the same dat.",
+    link: "https://twitter-composer.vercel.app/",
+    github: "https://github.com/darkhota/twitter-composer"
+  },
+  {
+    name: "FCCPC",
+    desc:
+      "I worked with a team of developers and designers and translated design to code and also consumed endpoints for this project which is a very large project that handles management of cases reported relating to rendering of services in Nigeria..",
+    link: "https://mergers.fccpc.gov.ng"
+  },
+  {
+    name: "Keem The Dj",
+    desc:
+      "This is a single web page created with Next Js to showcase an art collection of NFTs",
+    link: "https://vercel.com/darkhota/keem-the-dj",
+    github: "https://github.com/darkhota/ktd-nft"
+  },
+  {
+    name: "Gig Share",
+    desc:
+      "This is a landing page for a design from dribble which show cases my ability do create animations using gsap, html/css",
+    link: "https://gig-share-test.vercel.app",
+    github: "https://github.com/darkhota/gig-share"
+  },
+  {
+    name: "Crypto Exchange Directory",
+    desc:
+      "This is a react app, that shows a list of cryptocurrency exchanges using coin gecko apis",
+    link: "https://crypto-exchange-list.vercel.app",
+    github: "https://github.com/darkhota/crypto-exchange-directory"
+  },
+  {
     name: "Visitor Management",
     desc:
       "This admin dashboard project enables admin to monitor visitors, employees, and items/ company devices coming in and out of a building.(Currently dosent have a backend) ",
@@ -160,7 +198,7 @@ export const projects = [
     link: "https://sidmach-website-sample-git-main-lazy-poet.vercel.app/"
   },
   {
-    name: "Contact Keepers",
+    name: "Contact Keeper",
     desc:
       "This web app is used to create store and manage contact. I created this using react, node js , express, mongodb",
     github: "https://github.com/darkhota/contact-keeper",

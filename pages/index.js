@@ -38,7 +38,8 @@ export default function Home({ githubProfileData }) {
             "reactjs ",
             "contextapi",
             "redux",
-            "next"
+            "next",
+            "nextjs"
           ]
         }}
       />
