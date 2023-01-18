@@ -4,7 +4,7 @@ export const greetings = {
   name: "Joseph Tioluwani",
   title: "Hi, I'm Joseph",
   description:
-    "A passionate Front end Web Developer having an experience of building Web applications with JavaScript / Reactjs, HTML/CSS and some other cool libraries and frameworks.",
+    "A passionate Software Engineer having an experience of building Web applications with JavaScript / Reactjs, HTML/CSS and some other cool libraries and frameworks. And building scalable microservices with springboot",
   resumeLink:
     "https://docs.google.com/document/d/1nRBvGfxJm4zLGOPfi880_zdRIl34oYdhtUwcai-HCXw/edit?usp=sharing",
 };
@@ -27,12 +27,13 @@ export const socialLinks = {
 
 export const skillsSection = {
   title: "What I do",
-  subTitle: "Front end web developer",
+  subTitle: "Software Engineer",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Develop microservices with springboot"),
   ],
 
   softwareSkills: [
